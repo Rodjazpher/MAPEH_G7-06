@@ -20,20 +20,18 @@ a {
 }
 
 h1 {
-    font-family: 'Libertinus Mono', sans-serif;
+    font-family: 'Xanh Mono', monospace;
     font-weight: 400;                                          
     /*text-transform: uppercase;*/
     font-size: 36px;
     text-align: center;
     letter-spacing: 12px;
-    font-weight: 400;
     color: #7f3a21;
 }
 
 p {
     font-size: 30px;
-    font-family: 'FreeMono', sans-serif;
-    font-weight: 400;
+    font-family: 'Cutive Mono', monospace;
 }
 
 .menu-strip {
